@@ -1,4 +1,6 @@
-$ heroku buildpacks:set heroku/python
+heroku buildpacks:set heroku/python
+python -V
+Python 3.9.4
 
 import discord
 
