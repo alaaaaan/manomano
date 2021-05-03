@@ -117,5 +117,6 @@ async def on_command_error(ctx, error):
 # lancement du bot
 print("Lancement du bot...")
 
+TOKEN = ""
 # connecter au serveur
 bot.run(TOKEN)
