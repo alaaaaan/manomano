@@ -1,3 +1,5 @@
+$ heroku buildpacks:set heroku/python
+
 import discord
 
 # on importe la fonction get
