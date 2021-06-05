@@ -1,6 +1,0 @@
-name = "manomano"
-version = "1.0.0"
-description = ""
-main = "Mano Mano.py"
-license = "ISC"
-dependencies = "discord.py"
