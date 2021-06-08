@@ -675,5 +675,5 @@ async def on_ready():
 print("Lancement du bot...")
 # lancement du bot
 
-bot.run("TOKEN")
+bot.run(TOKEN)
 # connecter au serveur
