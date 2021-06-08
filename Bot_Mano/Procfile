@@ -1,1 +1,1 @@
-worker: mano.py
+worker: main.py
